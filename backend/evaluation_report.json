@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is the main advantage of the microkernel approach to system design?",
+        "latency": 13.143600463867188,
+        "retries": 1,
+        "faithfulness": 4,
+        "relevance": 3
+    },
+    {
+        "question": "What is a file-control block (FCB)?",
+        "latency": 6.9394965171813965,
+        "retries": 0,
+        "faithfulness": 3,
+        "relevance": 4
+    },
+    {
+        "question": "How do you bake a chocolate cake?",
+        "latency": 11.8390634059906,
+        "retries": 3,
+        "faithfulness": 2,
+        "relevance": 2
+    },
+    {
+        "question": "What types of services does the process manager provide in Windows?",
+        "latency": 6.940466403961182,
+        "retries": 0,
+        "faithfulness": 4,
+        "relevance": 4
+    }
+]
